@@ -1,2 +1,4 @@
 hello world this is file created by touch and cat output
 i want to get good job
+
+edit the file after 1st commit to check the file
