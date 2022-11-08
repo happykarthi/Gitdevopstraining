@@ -1,0 +1,2 @@
+hello world this is file created by touch and cat output
+i want to get good job
