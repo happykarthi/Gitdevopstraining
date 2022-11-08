@@ -1,2 +1,0 @@
-this is file to create the files after all files moved to git remote repository
-
