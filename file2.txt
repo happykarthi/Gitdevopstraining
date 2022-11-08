@@ -1,4 +1,2 @@
-hello world this is file created by touch and cat output that file input to file2.txt
-
-
-i want to get good job
+fit the job
+monago db
